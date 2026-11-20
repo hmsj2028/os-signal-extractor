@@ -1,0 +1,8 @@
+results/
+logs/
+examples/example_project/
+*.p
+*.slxc
+slprj/
+*.asv
+~$*
